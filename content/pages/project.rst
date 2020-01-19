@@ -102,11 +102,5 @@ Piezoelectric materials are those which convert applied mechanical stress into e
   
 https://en.wikipedia.org/wiki/Piezoelectricity
 
-https://en.wikipedia.org/wiki/Piezoelectric_motor 
-
-https://en.wikipedia.org/wiki/Piezoelectric_sensor 
-
-In this project, you will model a positive displacement piston pump powered by a piezoelectric stack actuator. The piezoelectric actuator will be driven by a sinusoidal voltage at a frequency of approximately 1kHz. The pump will consist of a single piston moving axially in a frictionless bore. Your simulation will include the mass and stiffness of the pump housing, piston, and fluid, as well as pressure losses due to fluid flow.  
-
-This study will examine how elements of mechanical design are driven by the properties and limitations of real materials. An effective model will aid in the identification of design criteria that will drive the selection of materials, and the geometry of the final product.   
+In this project, you will model a positive displacement piston pump powered by a piezoelectric stack actuator. The piezoelectric actuator will be driven by a sinusoidal voltage at a frequency of approximately 1kHz. The pump will consist of a single piston moving axially in a frictionless bore. Your simulation will include the mass and stiffness of the pump housing, piston, and fluid, as well as pressure losses due to fluid flow. This study will examine how elements of mechanical design are driven by the properties and limitations of real materials. An effective model will aid in the identification of design criteria that will drive the selection of materials, and the geometry of the final product.   
 
