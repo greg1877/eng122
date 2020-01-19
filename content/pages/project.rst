@@ -93,3 +93,12 @@ Design of a Tire Balance Machine
 --------------------------------
 
 Estimating of the Inertia of a Sports Implement
+
+Smart Material Actuated Hydraulic Pump
+--------------------------------------
+
+This is the prompt for the pumpt that I will be writing
+
+https://en.wikipedia.org/wiki/Piezoelectricity
+
+
